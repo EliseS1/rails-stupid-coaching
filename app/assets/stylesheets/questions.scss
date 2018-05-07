@@ -1,0 +1,28 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container {
+  text-align: center;
+}
+h1 {
+  color: pink;
+  text-align: center;
+  font-family: altair;
+  font-size: 50px;
+}
+
+.btn-danger {
+  background-color: pink;
+  color: white;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 20%;
+  font-family: altair;
+  font-size: 15px
+}
+p {
+  font-family: altair;
+  font-size: 15px;
+  text-align: center;
+}
